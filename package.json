@@ -1,0 +1,20 @@
+{
+  "name": "n1qn4-to-do-list",
+  "version": "3.0.2",
+  "description": "This is an to do list.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "n1qn4-to-do-list": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
